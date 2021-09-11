@@ -1,4 +1,4 @@
-### Bonjour, je m'appelle Issa[linkedin] 👋
+### Bonjour, je m'appelle [Issa][linkedin] 👋
 
 ### Je suis un développeur en reconversion
 
