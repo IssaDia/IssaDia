@@ -1,4 +1,4 @@
-### Bonjour, je m'appelle Issa [linkedin] 👋
+### Bonjour, je m'appelle Issa[linkedin] 👋
 
 ### Je suis un développeur en reconversion
 
@@ -31,7 +31,7 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width: 100%;" />
 
-📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 
 How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer
 Microinteractions: Password Validation Animation
@@ -40,7 +40,7 @@ Regular Expressions (RegEx) Crash Course
 Emmet Part 2 - Advanced
 ➡️ more blog posts...
 
-⚡ Recent GitHub Activity
-⚡ GitHub Stats
+### ⚡ Recent GitHub Activity
+### ⚡ GitHub Stats
 
 [linkedin]: https://www.linkedin.com/in/issa-dia-dev/
