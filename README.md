@@ -5,7 +5,7 @@
 - 📚 Je suis actuellement en formation Développeur Fullstack (Bac +3) à It-Akademy
 - 🌱 Je me forme aussi à la cybersécurité et à la technologie Blockchain en paralléle
 - 👯 J'aimerais intégrer une équipe avec des profils expérimentés pour monter en compétence rapidement
-- 🥅 Objectif 2021: être un développeur React compétent
+- 🥅 Objectif 2022: être un développeur React compétent
 
 ### Retrouvez-moi ici:
 
@@ -13,7 +13,11 @@
 
 <br />
 
+<<<<<<< HEAD
 ### 🛠️ Languages et Outils:
+=======
+### Languages et Outils 🛠️ :
+>>>>>>> 40b7cf3c9c9ec2eb845a043a75c61a27cec36846
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -34,15 +38,21 @@
 <br />
 
 ### 📕 Latest Blog Posts
+<<<<<<< HEAD
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+=======
+>>>>>>> 40b7cf3c9c9ec2eb845a043a75c61a27cec36846
 
 ➡️ more blog posts...
 
 ### ⚡ Recent GitHub Activity
+<<<<<<< HEAD
 
+=======
+>>>>>>> 40b7cf3c9c9ec2eb845a043a75c61a27cec36846
 ### ⚡ GitHub Stats
 
 [linkedin]: https://www.linkedin.com/in/issa-dia-dev/
