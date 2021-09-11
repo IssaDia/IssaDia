@@ -1,8 +1,8 @@
-### Bonjour, je m'appelle Issa [linkedin] 👋
+### Bonjour, je m'appelle [Issa][linkedin] 👋
 
 ### Je suis un développeur en reconversion
 
-- 🔭 Je suis actuellement en formation Développeur Fullstack (Bac +3) à It-Akademy
+- 📚 Je suis actuellement en formation Développeur Fullstack (Bac +3) à It-Akademy
 - 🌱 Je me forme aussi à la cybersécurité et à la technologie Blockchain en paralléle
 - 👯 J'aimerais intégrer une équipe avec des profils expérimentés pour monter en compétence rapidement
 - 🥅 Objectif 2021: être un développeur React compétent
@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages et Outils:
+### 🛠️ Languages et Outils:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -31,16 +31,18 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width: 100%;" />
 
-📕 Latest Blog Posts
+<br />
 
-How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer
-Microinteractions: Password Validation Animation
-Notion + YouTube - A Powerful Combination for Productivity
-Regular Expressions (RegEx) Crash Course
-Emmet Part 2 - Advanced
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 ➡️ more blog posts...
 
-⚡ Recent GitHub Activity
-⚡ GitHub Stats
+### ⚡ Recent GitHub Activity
+
+### ⚡ GitHub Stats
 
 [linkedin]: https://www.linkedin.com/in/issa-dia-dev/
