@@ -9,9 +9,7 @@
 
 ### Retrouvez-moi ici:
 
-[<img align="left" alt="Issa Dia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
-
-<br />
+[<img align="left" alt="Issa Dia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Languages et Outils:
 
