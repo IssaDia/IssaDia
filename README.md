@@ -29,7 +29,7 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" style="max-width: 100%;" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
 
@@ -40,6 +40,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ more blog posts...
+
+<img align="left" alt="Issa Dia Github stats" src="https://github-readme-stats.vercel.app/api?username=IssaDia&show_icons=true&hide_border=true" />
 
 ### ⚡ Recent GitHub Activity
 

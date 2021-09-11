@@ -1,0 +1,23 @@
+{
+  "name": "IssaDia",
+  "version": "1.0.0",
+  "description": "### Je suis un développeur en reconversion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IssaDia/IssaDia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IssaDia/IssaDia/issues"
+  },
+  "homepage": "https://github.com/IssaDia/IssaDia#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
