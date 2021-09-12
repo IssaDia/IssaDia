@@ -21,13 +21,13 @@
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -41,14 +41,16 @@
 
 ➡️ more blog posts...
 
-<img align="left" alt="Issa Dia Github stats" src="https://github-readme-stats.vercel.app/api?username=IssaDia&show_icons=true&hide_border=true" />
-
 <img align="left" alt="Issa Dia Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaDia&layout=compact" />
 
 <br />
 
 ### ⚡ Recent GitHub Activity
 
+<!--START_SECTION:activity-->
+
 ### ⚡ GitHub Stats
+
+<img align="left" alt="Issa Dia Github stats" src="https://github-readme-stats.vercel.app/api?username=IssaDia&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/issa-dia-dev/
