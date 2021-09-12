@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
 
-[notion] : https://www.notion.so/veille-techno-issa-2572f315bd9348c3a13dcb8b8c3cdb0d
+[notion]: https://www.notion.so/veille-techno-issa-2572f315bd9348c3a13dcb8b8c3cdb0d
