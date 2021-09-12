@@ -11,8 +11,7 @@
 
 <h3 align="left">Rejoignez-moi :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/issa dia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issa dia" height="30" width="40" /></a>
-<a href="/https://www.notion.so/veille-techno-issa-2572f315bd9348c3a13dcb8b8c3cdb0d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.notion.so/veille-techno-issa-2572f315bd9348c3a13dcb8b8c3cdb0d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/issa-dia-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issa dia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages et Outils:</h3>
