@@ -1,56 +1,28 @@
-### Bonjour, je m'appelle [Issa][linkedin] 👋
+<h1 align="center">Bonjour 👋, Je m'appelle Issa</h1>
+<h3 align="center">Je suis un développeur en reconversion</h3>
 
-### Je suis un développeur en reconversion
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issadia" alt="issadia" /></a> </p>
 
-- 📚 Je suis actuellement en formation Développeur Fullstack (Bac +3) à It-Akademy
-- 🌱 Je me forme aussi à la cybersécurité et à la technologie Blockchain en paralléle
-- 👯 J'aimerais intégrer une équipe avec des profils expérimentés pour monter en compétence rapidement
-- 🥅 Objectif 2022: être un développeur React compétent
+- 🌱 Je me forme aussi à la cybersécurité et à la technologie Blockchain en parallèle **Python, Solidity**
 
-### Retrouvez-moi ici:
+- 📝 Je fais de la veille technologique par le biais d'un blog sur Notion [https://www.notion.so/Veille-Techno-Issa-2572f315bd9348c3a13dcb8b8c3cdb0d](https://www.notion.so/Veille-Techno-Issa-2572f315bd9348c3a13dcb8b8c3cdb0d)
 
-[<img align="left" alt="Issa Dia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📫 Me contacter **issadiapro@gmail.com**
 
-<br />
-
-### Languages et Outils 🛠️
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<br />
-
-### 📕 Latest Blog Posts
+### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
-➡️ more blog posts...
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/issa dia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issa dia" height="30" width="40" /></a>
+<a href="/https://www.notion.so/veille-techno-issa-2572f315bd9348c3a13dcb8b8c3cdb0d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.notion.so/veille-techno-issa-2572f315bd9348c3a13dcb8b8c3cdb0d" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="Issa Dia Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaDia&layout=compact" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=issadia&show_icons=true&locale=en&layout=compact" alt="issadia" /></p>
 
-### ⚡ Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
-### ⚡ GitHub Stats
-
-<img align="left" alt="Issa Dia Github stats" src="https://github-readme-stats.vercel.app/api?username=IssaDia&show_icons=true&hide_border=true" />
-
-[linkedin]: https://www.linkedin.com/in/issa-dia-dev/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
