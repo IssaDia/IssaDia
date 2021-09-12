@@ -5,7 +5,7 @@
 
 🌱 Je me forme aussi à la cybersécurité et à la technologie Blockchain en parallèle **Python, Solidity**
 
-📝 Je fais de la veille technologique par le biais d'un blog sur [Notion] [notion]
+📝 Je fais de la veille technologique par le biais d'un blog sur [Notion]
 
 📫 Me contacter **issadiapro@gmail.com**
 
