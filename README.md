@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Issa</h1>
 <h3 align="center">Je suis un développeur en reconversion</h3>
 
-📚 Je suis actuellement en formation Développeur Fullstack (Bac +3) à It-Akademy
+📚 Je suis actuellement en formation Développeur Fullstack (Bac +4) à It-Akademy
 
 🌱 Je me forme aussi à la cybersécurité et à la technologie Blockchain en parallèle **Python, Solidity**
 
