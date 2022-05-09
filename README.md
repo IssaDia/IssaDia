@@ -33,9 +33,5 @@
 
 <!--START_SECTION:activity-->
 
-
-
-<!--END_SECTION:activity-->
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
 
