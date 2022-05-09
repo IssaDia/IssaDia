@@ -29,6 +29,10 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
 `.github/workflows/update-readme.yml`
 
 ```yml
@@ -50,6 +54,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+<!--END_SECTION:activity-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
 
