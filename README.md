@@ -6,6 +6,7 @@
 
 
 📝 I'm doing technical watch here :  [Notion](https://www.notion.so/Veille-Techno-Issa-2572f315bd9348c3a13dcb8b8c3cdb0d) (in french for now)
+
 ⚡ I have a blog too : [Medium](https://medium.com/@issadia)
 
 📫 Reach me here **issadiapro@gmail.com**
