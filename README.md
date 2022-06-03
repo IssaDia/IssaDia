@@ -32,16 +32,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/IssaDia/scapping-Application/pull/28) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-2. 💪 Opened PR [#28](https://github.com/IssaDia/scapping-Application/pull/28) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-3. 🎉 Merged PR [#27](https://github.com/IssaDia/scapping-Application/pull/27) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-4. 💪 Opened PR [#27](https://github.com/IssaDia/scapping-Application/pull/27) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-5. 💪 Opened PR [#26](https://github.com/IssaDia/scapping-Application/pull/26) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-6. 🎉 Merged PR [#25](https://github.com/IssaDia/scapping-Application/pull/25) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-7. 💪 Opened PR [#25](https://github.com/IssaDia/scapping-Application/pull/25) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-8. ❗️ Opened issue [#24](https://github.com/IssaDia/scapping-Application/issues/24) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-9. 🎉 Merged PR [#23](https://github.com/IssaDia/scapping-Application/pull/23) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
-10. 💪 Opened PR [#23](https://github.com/IssaDia/scapping-Application/pull/23) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+1. 🎉 Merged PR [#32](https://github.com/IssaDia/scapping-Application/pull/32) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+2. 💪 Opened PR [#32](https://github.com/IssaDia/scapping-Application/pull/32) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+3. 🎉 Merged PR [#31](https://github.com/IssaDia/scapping-Application/pull/31) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+4. 💪 Opened PR [#31](https://github.com/IssaDia/scapping-Application/pull/31) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+5. 🎉 Merged PR [#30](https://github.com/IssaDia/scapping-Application/pull/30) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+6. 💪 Opened PR [#30](https://github.com/IssaDia/scapping-Application/pull/30) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+7. 🎉 Merged PR [#29](https://github.com/IssaDia/scapping-Application/pull/29) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+8. 💪 Opened PR [#29](https://github.com/IssaDia/scapping-Application/pull/29) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+9. 🎉 Merged PR [#28](https://github.com/IssaDia/scapping-Application/pull/28) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
+10. 💪 Opened PR [#28](https://github.com/IssaDia/scapping-Application/pull/28) in [IssaDia/scapping-Application](https://github.com/IssaDia/scapping-Application)
 <!--END_SECTION:activity-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
