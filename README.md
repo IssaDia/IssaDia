@@ -32,16 +32,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/IssaDia/adopt_a_traveler/issues/2) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-2. ❗️ Opened issue [#1](https://github.com/IssaDia/adopt_a_traveler/issues/1) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-3. 🎉 Merged PR [#78](https://github.com/IssaDia/yasmina-landing-page/pull/78) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-4. 💪 Opened PR [#78](https://github.com/IssaDia/yasmina-landing-page/pull/78) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-5. 🎉 Merged PR [#77](https://github.com/IssaDia/yasmina-landing-page/pull/77) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-6. 💪 Opened PR [#77](https://github.com/IssaDia/yasmina-landing-page/pull/77) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-7. 🎉 Merged PR [#10](https://github.com/IssaDia/store_assessment/pull/10) in [IssaDia/store_assessment](https://github.com/IssaDia/store_assessment)
-8. 💪 Opened PR [#10](https://github.com/IssaDia/store_assessment/pull/10) in [IssaDia/store_assessment](https://github.com/IssaDia/store_assessment)
-9. 🎉 Merged PR [#9](https://github.com/IssaDia/store_assessment/pull/9) in [IssaDia/store_assessment](https://github.com/IssaDia/store_assessment)
-10. 💪 Opened PR [#9](https://github.com/IssaDia/store_assessment/pull/9) in [IssaDia/store_assessment](https://github.com/IssaDia/store_assessment)
+1. ❗️ Opened issue [#4](https://github.com/IssaDia/adopt_a_traveler/issues/4) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+2. ❗️ Opened issue [#3](https://github.com/IssaDia/adopt_a_traveler/issues/3) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+3. ❗️ Opened issue [#2](https://github.com/IssaDia/adopt_a_traveler/issues/2) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+4. ❗️ Opened issue [#1](https://github.com/IssaDia/adopt_a_traveler/issues/1) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+5. 🎉 Merged PR [#78](https://github.com/IssaDia/yasmina-landing-page/pull/78) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+6. 💪 Opened PR [#78](https://github.com/IssaDia/yasmina-landing-page/pull/78) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+7. 🎉 Merged PR [#77](https://github.com/IssaDia/yasmina-landing-page/pull/77) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+8. 💪 Opened PR [#77](https://github.com/IssaDia/yasmina-landing-page/pull/77) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+9. 🎉 Merged PR [#10](https://github.com/IssaDia/store_assessment/pull/10) in [IssaDia/store_assessment](https://github.com/IssaDia/store_assessment)
+10. 💪 Opened PR [#10](https://github.com/IssaDia/store_assessment/pull/10) in [IssaDia/store_assessment](https://github.com/IssaDia/store_assessment)
 <!--END_SECTION:activity-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
