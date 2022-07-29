@@ -32,16 +32,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/IssaDia/adopt_a_traveler/pull/10) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-2. 💪 Opened PR [#10](https://github.com/IssaDia/adopt_a_traveler/pull/10) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-3. ❌ Closed PR [#8](https://github.com/IssaDia/adopt_a_traveler/pull/8) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-4. 🎉 Merged PR [#9](https://github.com/IssaDia/adopt_a_traveler/pull/9) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-5. 💪 Opened PR [#9](https://github.com/IssaDia/adopt_a_traveler/pull/9) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-6. 💪 Opened PR [#8](https://github.com/IssaDia/adopt_a_traveler/pull/8) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-7. ❗️ Opened issue [#7](https://github.com/IssaDia/adopt_a_traveler/issues/7) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-8. ❗️ Opened issue [#6](https://github.com/IssaDia/adopt_a_traveler/issues/6) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-9. ❗️ Opened issue [#5](https://github.com/IssaDia/adopt_a_traveler/issues/5) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
-10. ❗️ Opened issue [#4](https://github.com/IssaDia/adopt_a_traveler/issues/4) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+1. 🎉 Merged PR [#11](https://github.com/IssaDia/adopt_a_traveler/pull/11) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+2. 💪 Opened PR [#11](https://github.com/IssaDia/adopt_a_traveler/pull/11) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+3. 🎉 Merged PR [#10](https://github.com/IssaDia/adopt_a_traveler/pull/10) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+4. 💪 Opened PR [#10](https://github.com/IssaDia/adopt_a_traveler/pull/10) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+5. ❌ Closed PR [#8](https://github.com/IssaDia/adopt_a_traveler/pull/8) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+6. 🎉 Merged PR [#9](https://github.com/IssaDia/adopt_a_traveler/pull/9) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+7. 💪 Opened PR [#9](https://github.com/IssaDia/adopt_a_traveler/pull/9) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+8. 💪 Opened PR [#8](https://github.com/IssaDia/adopt_a_traveler/pull/8) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+9. ❗️ Opened issue [#7](https://github.com/IssaDia/adopt_a_traveler/issues/7) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
+10. ❗️ Opened issue [#6](https://github.com/IssaDia/adopt_a_traveler/issues/6) in [IssaDia/adopt_a_traveler](https://github.com/IssaDia/adopt_a_traveler)
 <!--END_SECTION:activity-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
