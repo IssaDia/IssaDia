@@ -32,16 +32,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/IssaDia/buy_by_block_dapp/pull/12) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-2. 💪 Opened PR [#12](https://github.com/IssaDia/buy_by_block_dapp/pull/12) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-3. 🎉 Merged PR [#11](https://github.com/IssaDia/buy_by_block_dapp/pull/11) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-4. 💪 Opened PR [#11](https://github.com/IssaDia/buy_by_block_dapp/pull/11) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-5. 🗣 Commented on [#1](https://github.com/IssaDia/buy_by_block_dapp/issues/1) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-6. ❗️ Opened issue [#10](https://github.com/IssaDia/buy_by_block_dapp/issues/10) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-7. ❗️ Opened issue [#9](https://github.com/IssaDia/buy_by_block_dapp/issues/9) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-8. ❗️ Opened issue [#8](https://github.com/IssaDia/buy_by_block_dapp/issues/8) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-9. 🎉 Merged PR [#7](https://github.com/IssaDia/buy_by_block_dapp/pull/7) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
-10. 💪 Opened PR [#7](https://github.com/IssaDia/buy_by_block_dapp/pull/7) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+1. ❗️ Opened issue [#13](https://github.com/IssaDia/buy_by_block_dapp/issues/13) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+2. 🎉 Merged PR [#12](https://github.com/IssaDia/buy_by_block_dapp/pull/12) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+3. 💪 Opened PR [#12](https://github.com/IssaDia/buy_by_block_dapp/pull/12) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+4. 🎉 Merged PR [#11](https://github.com/IssaDia/buy_by_block_dapp/pull/11) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+5. 💪 Opened PR [#11](https://github.com/IssaDia/buy_by_block_dapp/pull/11) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+6. 🗣 Commented on [#1](https://github.com/IssaDia/buy_by_block_dapp/issues/1) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+7. ❗️ Opened issue [#10](https://github.com/IssaDia/buy_by_block_dapp/issues/10) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+8. ❗️ Opened issue [#9](https://github.com/IssaDia/buy_by_block_dapp/issues/9) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+9. ❗️ Opened issue [#8](https://github.com/IssaDia/buy_by_block_dapp/issues/8) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+10. 🎉 Merged PR [#7](https://github.com/IssaDia/buy_by_block_dapp/pull/7) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
 <!--END_SECTION:activity-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
