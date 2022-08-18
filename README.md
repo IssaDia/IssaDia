@@ -32,16 +32,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/9) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-2. ❗️ Opened issue [#8](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/8) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-3. ❗️ Opened issue [#7](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/7) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-4. ❗️ Opened issue [#6](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/6) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-5. ❗️ Opened issue [#5](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/5) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-6. ❗️ Opened issue [#4](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/4) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-7. ❗️ Opened issue [#3](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/3) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-8. ❗️ Opened issue [#2](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/2) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-9. ❗️ Opened issue [#1](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/1) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
-10. 🎉 Merged PR [#14](https://github.com/IssaDia/buy_by_block_dapp/pull/14) in [IssaDia/buy_by_block_dapp](https://github.com/IssaDia/buy_by_block_dapp)
+1. ❗️ Opened issue [#10](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/10) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+2. ❗️ Opened issue [#9](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/9) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+3. ❗️ Opened issue [#8](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/8) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+4. ❗️ Opened issue [#7](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/7) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+5. ❗️ Opened issue [#6](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/6) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+6. ❗️ Opened issue [#5](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/5) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+7. ❗️ Opened issue [#4](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/4) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+8. ❗️ Opened issue [#3](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/3) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+9. ❗️ Opened issue [#2](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/2) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
+10. ❗️ Opened issue [#1](https://github.com/IssaDia/BuyByBlock_Dapp_v2/issues/1) in [IssaDia/BuyByBlock_Dapp_v2](https://github.com/IssaDia/BuyByBlock_Dapp_v2)
 <!--END_SECTION:activity-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
