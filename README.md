@@ -32,16 +32,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/IssaDia/yasmina-landing-page/pull/89) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-2. 💪 Opened PR [#89](https://github.com/IssaDia/yasmina-landing-page/pull/89) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-3. 🎉 Merged PR [#88](https://github.com/IssaDia/yasmina-landing-page/pull/88) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-4. 💪 Opened PR [#88](https://github.com/IssaDia/yasmina-landing-page/pull/88) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-5. 🎉 Merged PR [#87](https://github.com/IssaDia/yasmina-landing-page/pull/87) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-6. 💪 Opened PR [#87](https://github.com/IssaDia/yasmina-landing-page/pull/87) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-7. 🎉 Merged PR [#86](https://github.com/IssaDia/yasmina-landing-page/pull/86) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-8. 💪 Opened PR [#86](https://github.com/IssaDia/yasmina-landing-page/pull/86) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-9. 🎉 Merged PR [#85](https://github.com/IssaDia/yasmina-landing-page/pull/85) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
-10. 💪 Opened PR [#85](https://github.com/IssaDia/yasmina-landing-page/pull/85) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+1. ❗️ Opened issue [#1](https://github.com/IssaDia/resume-2022/issues/1) in [IssaDia/resume-2022](https://github.com/IssaDia/resume-2022)
+2. 🎉 Merged PR [#89](https://github.com/IssaDia/yasmina-landing-page/pull/89) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+3. 💪 Opened PR [#89](https://github.com/IssaDia/yasmina-landing-page/pull/89) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+4. 🎉 Merged PR [#88](https://github.com/IssaDia/yasmina-landing-page/pull/88) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+5. 💪 Opened PR [#88](https://github.com/IssaDia/yasmina-landing-page/pull/88) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+6. 🎉 Merged PR [#87](https://github.com/IssaDia/yasmina-landing-page/pull/87) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+7. 💪 Opened PR [#87](https://github.com/IssaDia/yasmina-landing-page/pull/87) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+8. 🎉 Merged PR [#86](https://github.com/IssaDia/yasmina-landing-page/pull/86) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+9. 💪 Opened PR [#86](https://github.com/IssaDia/yasmina-landing-page/pull/86) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
+10. 🎉 Merged PR [#85](https://github.com/IssaDia/yasmina-landing-page/pull/85) in [IssaDia/yasmina-landing-page](https://github.com/IssaDia/yasmina-landing-page)
 <!--END_SECTION:activity-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issadia&" alt="issadia" /></p>
